@@ -24,6 +24,3 @@ python anomaly_detection.py
 ## Output
 - Plot showing data with anomalies marked in red
 - List of anomaly indices
-
-## Note
-Replace synthetic data with real time series data for practical application.
